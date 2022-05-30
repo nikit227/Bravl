@@ -1,0 +1,36 @@
+body{
+background-color: rgb(212, 0, 255);
+padding: 50px;
+}
+h1{
+margin: auto;
+}
+div{
+  margin-top: 2px;
+  text-align: center;
+}
+
+#container{
+  background-color: rgb(255, 255, 255);
+  
+}
+.navi{
+ background-color: rgb(61, 1, 1); 
+}
+.content{
+background-color: rgb(255, 153, 0);
+float:left;
+width: 75%;
+height: 500px;
+}
+.sidebar{
+  background-color: rgb(255, 0, 0);
+  float: right;
+  width: 25%;
+  height: 500px;
+
+}
+.footer{
+  background-color: rgb(80, 165, 136);
+  
+}
